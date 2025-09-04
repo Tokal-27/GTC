@@ -57,7 +57,4 @@ Cancellations have a major impact on hotel profitability, and this project deliv
 Deliver a **robust data preprocessing pipeline** to ensure reliable input for machine learning models.  
 The quality of this pipeline directly impacts the hotel’s ability to reduce losses from last-minute cancellations.  
 
----
 
-## 👨‍💻 Author
-- **GTC Team**
